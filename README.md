@@ -19,6 +19,16 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/>
 </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="40" height="40"/>
-</a></p>
+  <img src="https://vectorified.com/images/express-js-icon-20.png" alt="express" width="40" height="40"/>
+</a>
+<a href="https://nodejs.com" target="_blank" rel="noreferrer">
+  <img src="https://download.logo.wine/logo/Node.js/Node.js-Logo.wine.png" alt="express" width="40" height="40"/>
+</a>
+<a href="https://mongodb.com" target="_blank" rel="noreferrer">
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo-640x400.png" alt="express" width="40" height="40"/>
+</a>
+<a href="https://flask.com" target="_blank" rel="noreferrer">
+  <img src="https://tse2.mm.bing.net/th?id=OIP.Q5EUk28Xc3iCDoMSkrd1_wHaFj&pid=Api&P=0&h=180" alt="express" width="40" height="40"/>
+</a>
+</p>
 
